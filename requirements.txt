@@ -1,0 +1,9 @@
+pandas>=2.1
+requests>=2.32
+xarray>=2024.3
+matplotlib>=3.8
+fsspec>=2024.2
+s3fs>=2024.2
+python-dotenv>=1.0
+cartopy>=0.22
+rasterio>=1.3
